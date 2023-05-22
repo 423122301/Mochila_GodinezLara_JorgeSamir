@@ -1,0 +1,13 @@
+CHEATSHEET GIT HUB
+git init: sirve para inicializar el repositorio
+git add: hace cambios en el directorio para el siguiente commited
+git commit -m: Commitea los cambios y ademas ponemos un mensaje " "
+git status: Da un estado de como estan los archivos, unstaged, untracked
+git brach: cambio de rama
+git merge: fusiona las ramas.
+git pull: jala las actualizaciones del repositorio en linea
+git push: sube la rama local a la remota y sube todos los commits que tenemo.
+git log: arroja el codigo de commits que tenemos.
+git log --oneline: arroja todos los commits que hemos hecho
+git checkout: volver a version anterior
+rm -rf .git: desconecta de git nuestra carpeta
